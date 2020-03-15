@@ -1,1 +1,1 @@
-# Swift-JSONMapping
+# JSONMapping
